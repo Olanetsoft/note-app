@@ -12,3 +12,6 @@ To record a note - run this command on the commandline
 
 To read a note - run this command on the commandline
 >node app.js --topic="The topic" --title="The title"
+
+
+WEJAPA ASSESSMENT
